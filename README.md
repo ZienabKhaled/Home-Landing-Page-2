@@ -1,6 +1,7 @@
 # Home-Landing-Page-2
 A Responsive Home landing page using native HTML & CSS.</br>
-### Live Video: https://drive.google.com/file/d/12gp_6inUaFO-dBji4U6qjIkYqbWoyoQu/view </br>
+#### Live Video: https://drive.google.com/file/d/12gp_6inUaFO-dBji4U6qjIkYqbWoyoQu/view </br>
+### Page Link:https://zienabkhaled.github.io/Home-Landing-Page-2/ 
 <div>
 <img src="https://github.com/ZienabKhaled/Home-Landing-Page-2/assets/117679026/f55f0d2d-46cd-482a-8baf-a7d9ef18b00a"> </br>
 <img src="https://github.com/ZienabKhaled/Home-Landing-Page-2/assets/117679026/199a6fb1-5248-4987-85ab-fda27b81dbda"> </br>
